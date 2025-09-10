@@ -10,3 +10,14 @@ if 1900 <= evszam <= 2099:
 
     d = (19 * a + 24) % 30
     e = (2 * b + 4 * c + 6 * d + 5) % 7
+
+    if d + e < 10:
+        print(f"Március {d + e + 22}")
+    else:
+        april = d + e - 9
+        if april == 26:
+            print(f"Április 19")
+        elif april == 25:
+            print(f"Április 18")
+        else:
+            print(f"Április {april}")
