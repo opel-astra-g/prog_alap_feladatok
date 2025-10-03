@@ -84,4 +84,4 @@ def feladat_8():
 def feladat_9():
     # Írasd ki az első 7 pozitív egész számot vesszővel elválasztva!
     #   A: úgy, hogy a végén ne legyen vessző!
-    print("placeholder")
+    ...

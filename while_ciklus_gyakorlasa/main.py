@@ -1,3 +1,3 @@
 import feladatok
 
-feladatok.feladat_3()
+feladatok.feladat_9()
