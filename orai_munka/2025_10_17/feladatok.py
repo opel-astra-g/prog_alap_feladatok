@@ -10,3 +10,9 @@ def kettes():
     for i in range(-1, -len(szo)-1, -1):
         forditva += szo[i]
     return forditva
+
+def kettes_parameter(szo: str):
+    forditva = ""
+    for i in range(-1, -len(szo)-1, -1):
+        forditva += szo[i]
+    return forditva
