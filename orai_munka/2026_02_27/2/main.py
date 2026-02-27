@@ -1,0 +1,3 @@
+import osztaly
+
+osztaly.Diak()

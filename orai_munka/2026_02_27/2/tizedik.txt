@@ -1,0 +1,4 @@
+Név/Életkor/Átlag
+Barnabás/17/5
+Simon/16/4,5
+Bence/12/2,3
